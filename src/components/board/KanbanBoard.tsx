@@ -17,7 +17,7 @@ interface Column {
 }
 
 const columns: Column[] = [
-  { id: 'todo', title: 'To Do', color: 'bg-status-todo' },
+  { id: 'todo', title: 'Opti', color: 'bg-status-todo' },
   { id: 'in-progress', title: 'In Progress', color: 'bg-status-in-progress' },
   { id: 'review', title: 'Review', color: 'bg-status-review' },
   { id: 'done', title: 'Done', color: 'bg-status-done' },
