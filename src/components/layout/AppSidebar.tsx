@@ -20,7 +20,7 @@ import { Project } from '@/types/project';
 
 const navItems = [
   { icon: LayoutDashboard, label: 'Dashboard', path: '/' },
-  { icon: Kanban, label: 'Board', path: '/board' },
+  { icon: Kanban, label: 'Project', path: '/board' },
   { icon: Calendar, label: 'Timeline', path: '/timeline' },
   { icon: Users, label: 'Team', path: '/team' },
   { icon: Settings, label: 'Settings', path: '/settings' },
