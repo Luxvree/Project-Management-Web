@@ -3,7 +3,7 @@ import { KanbanBoard } from '@/components/board/KanbanBoard';
 
 const Board = () => {
   return (
-    <AppLayout title="Board">
+    <AppLayout title="Project">
       <div className="h-full">
         <KanbanBoard />
       </div>
